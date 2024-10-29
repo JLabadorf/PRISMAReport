@@ -72,3 +72,7 @@ For questions or inquiries, please contact:
 - **James Labadorf**
 - **james@jameslabadorf.com**
 - **www.jameslabadorf.com**
+## Team Members
+
+- *James Labadorf*: Prompt Engineering, Project Manager
+- *Peter Labadorf*: Backend Design, Data Engineering
