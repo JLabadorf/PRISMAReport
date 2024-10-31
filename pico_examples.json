@@ -1,0 +1,127 @@
+[
+    {
+      "title": "Effect of exercise on depression in older adults",
+      "fullPICO": "In older adults (65+ years) with diagnosed depression, does regular aerobic exercise, compared to usual care or no exercise intervention, lead to a reduction in depression symptoms (e.g., measured by a standardized depression scale)?",
+      "P": "Older adults (65+ years) with diagnosed depression",
+      "I": "Regular aerobic exercise",
+      "C": "Usual care or no exercise intervention",
+      "O": "Reduction in depression symptoms (e.g., measured by a standardized depression scale)",
+      "PubMedSearchStr": "(\"aged\"[MeSH Terms] OR \"elderly\"[MeSH Terms] OR (65[Title/Abstract] AND (year[Title/Abstract] OR years[Title/Abstract] OR old[Title/Abstract] OR older[Title/Abstract]))) AND (\"depression\"[MeSH Terms] OR \"depressive disorder\"[MeSH Terms]) AND (\"exercise\"[MeSH Terms] OR \"aerobic exercise\"[Title/Abstract] OR \"physical activity\"[MeSH Terms]) AND (\"depression scale\"[Title/Abstract] OR \"geriatric depression scale\"[Title/Abstract] OR \"beck depression inventory\"[Title/Abstract])"
+    },
+    {
+      "title": "Benefits of probiotics in preventing antibiotic-associated diarrhea",
+      "fullPICO": "In adults receiving antibiotic treatment, does probiotic supplementation, compared to placebo or no probiotics, reduce the incidence of antibiotic-associated diarrhea?",
+      "P": "Adults receiving antibiotic treatment",
+      "I": "Probiotic supplementation",
+      "C": "Placebo or no probiotics",
+      "O": "Incidence of antibiotic-associated diarrhea",
+      "PubMedSearchStr": "(\"antibacterial agents\"[MeSH Terms] OR \"antibiotics\"[Title/Abstract]) AND (\"probiotics\"[MeSH Terms] OR \"Lactobacillus\"[Title/Abstract] OR \"Bifidobacterium\"[Title/Abstract]) AND (\"diarrhea\"[MeSH Terms] OR \"antibiotic-associated diarrhea\"[Title/Abstract]) AND (placebo[Title/Abstract] OR \"control group\"[Title/Abstract])"
+    },
+    {
+      "title": "Effectiveness of telemedicine for managing type 2 diabetes",
+      "fullPICO": "In adults with type 2 diabetes, are telemedicine interventions (e.g., remote monitoring, virtual consultations), compared to usual in-person care, effective in improving glycemic control (HbA1c levels)?",
+      "P": "Adults with type 2 diabetes",
+      "I": "Telemedicine interventions (e.g., remote monitoring, virtual consultations)",
+      "C": "Usual in-person care",
+      "O": "Glycemic control (HbA1c levels)",
+      "PubMedSearchStr": "(\"diabetes mellitus, type 2\"[MeSH Terms]) AND (\"telemedicine\"[MeSH Terms] OR \"remote monitoring\"[Title/Abstract] OR \"virtual consultation\"[Title/Abstract] OR \" telehealth\"[Title/Abstract]) AND (\"glycemic control\"[Title/Abstract] OR \"HbA1c\"[Title/Abstract]) AND (\"usual care\"[Title/Abstract] OR \"standard care\"[Title/Abstract] OR \"in-person care\"[Title/Abstract])"
+    },
+    {
+      "title": "Impact of mindfulness meditation on stress levels in healthcare workers",
+      "fullPICO": "In healthcare professionals (e.g., doctors, nurses), does mindfulness meditation, compared to no intervention or an alternative stress reduction technique, lead to a reduction in stress levels (e.g., measured by perceived stress scale or cortisol levels)?",
+      "P": "Healthcare professionals (e.g., doctors, nurses)",
+      "I": "Mindfulness meditation",
+      "C": "No intervention or alternative stress reduction technique",
+      "O": "Reduction in stress levels (e.g., measured by perceived stress scale or cortisol levels)",
+      "PubMedSearchStr": "(\"health personnel\"[MeSH Terms] OR \"physicians\"[MeSH Terms] OR \"nurses\"[MeSH Terms]) AND (\"mindfulness\"[MeSH Terms] OR \"meditation\"[MeSH Terms]) AND (\"stress\"[MeSH Terms] OR \"perceived stress scale\"[Title/Abstract] OR \"cortisol\"[MeSH Terms]) AND (\"control group\"[Title/Abstract] OR \"no intervention\"[Title/Abstract])"
+    },{
+      "title": "Effect of Intermittent Fasting on Weight Loss in Obese Adults",
+      "fullPICO": "In obese adults, does intermittent fasting, compared to calorie restriction, lead to greater weight loss?",
+      "P": "Obese adults",
+      "I": "Intermittent fasting",
+      "C": "Calorie restriction",
+      "O": "Weight loss",
+      "PubMedSearchStr": "(obesity[MeSH Terms] OR obese[Title/Abstract]) AND (intermittent fasting[Title/Abstract] OR time-restricted feeding[Title/Abstract]) AND (calorie restriction[Title/Abstract] OR energy restriction[Title/Abstract]) AND (weight loss[Title/Abstract] OR weight reduction[Title/Abstract])"
+    },
+    {
+      "title": "Impact of Virtual Reality Therapy on PTSD Symptoms",
+      "fullPICO": "In adults with PTSD, does virtual reality therapy, compared to traditional therapy, reduce PTSD symptoms?",
+      "P": "Adults with PTSD",
+      "I": "Virtual reality therapy",
+      "C": "Traditional therapy (e.g., Cognitive Processing Therapy)",
+      "O": "Reduction in PTSD symptoms",
+      "PubMedSearchStr": "(PTSD[MeSH Terms] OR posttraumatic stress disorder[Title/Abstract]) AND (virtual reality therapy[Title/Abstract] OR VR therapy[Title/Abstract]) AND (cognitive processing therapy[Title/Abstract] OR prolonged exposure therapy[Title/Abstract]) AND (PTSD symptoms[Title/Abstract] OR CAPS-5[Title/Abstract])"
+    },
+    {
+      "title": "Effectiveness of Gamification in Improving Medication Adherence",
+      "fullPICO": "In patients with chronic illnesses, does gamification, compared to standard medication reminders, improve medication adherence?",
+      "P": "Patients with chronic illnesses",
+      "I": "Gamification",
+      "C": "Standard medication reminders",
+      "O": "Medication adherence",
+      "PubMedSearchStr": "(chronic disease[MeSH Terms] OR chronic illness[Title/Abstract]) AND (gamification[Title/Abstract] OR game-based interventions[Title/Abstract]) AND (medication reminders[Title/Abstract] OR pill organizers[Title/Abstract]) AND (medication adherence[Title/Abstract] OR compliance[Title/Abstract])"
+    },
+    {
+      "title": "Benefits of Music Therapy for Pain Management in Cancer Patients",
+      "fullPICO": "In cancer patients experiencing pain, does music therapy, compared to standard pain management, reduce pain levels?",
+      "P": "Cancer patients experiencing pain",
+      "I": "Music therapy",
+      "C": "Standard pain management",
+      "O": "Pain levels",
+      "PubMedSearchStr": "(cancer[MeSH Terms] OR neoplasms[MeSH Terms]) AND (pain[MeSH Terms] OR pain management[Title/Abstract]) AND (music therapy[Title/Abstract]) AND (analgesics[MeSH Terms] OR opioids[MeSH Terms])"
+   },
+   {
+      "title": "Effect of Yoga on Anxiety Levels in Pregnant Women",
+      "fullPICO": "In pregnant women, does practicing yoga, compared to no intervention, reduce anxiety levels?",
+      "P": "Pregnant women",
+      "I": "Yoga",
+      "C": "No intervention",
+      "O": "Anxiety levels",
+      "PubMedSearchStr": "(pregnancy[MeSH Terms]) AND (yoga[Title/Abstract]) AND (anxiety[MeSH Terms]) AND (control group[Title/Abstract] OR no intervention[Title/Abstract])"
+    },
+   {
+      "title": "Impact of Artificial Intelligence on Diagnostic Accuracy in Radiology",
+      "fullPICO": "In radiology, does the use of artificial intelligence, compared to traditional image interpretation, improve diagnostic accuracy?",
+      "P": "Radiology",
+      "I": "Artificial intelligence",
+      "C": "Traditional image interpretation",
+      "O": "Diagnostic accuracy",
+      "PubMedSearchStr": "(radiology[MeSH Terms]) AND (artificial intelligence[Title/Abstract] OR AI[Title/Abstract]) AND (image interpretation[Title/Abstract]) AND (diagnostic accuracy[Title/Abstract] OR sensitivity and specificity[Title/Abstract])"
+   },
+   {
+      "title": "Effectiveness of Telehealth for Post-Operative Follow-up",
+      "fullPICO": "Following surgery, does telehealth follow-up, compared to in-person follow-up, lead to similar patient outcomes?",
+      "P": "Post-operative patients",
+      "I": "Telehealth follow-up",
+      "C": "In-person follow-up",
+      "O": "Patient outcomes (e.g., complications, readmissions)",
+      "PubMedSearchStr": "(postoperative care[MeSH Terms] OR postoperative period[Title/Abstract]) AND (telehealth[Title/Abstract] OR remote monitoring[Title/Abstract]) AND (in-person follow-up[Title/Abstract] OR clinic visit[Title/Abstract]) AND (surgical complications[Title/Abstract] OR hospital readmission[Title/Abstract] OR patient satisfaction[Title/Abstract])"
+    },
+  {
+      "title": "Benefits of a Mediterranean Diet on Cardiovascular Health",
+      "fullPICO": "In adults at risk for cardiovascular disease, does a Mediterranean diet, compared to a standard Western diet, improve cardiovascular health markers?",
+      "P": "Adults at risk for cardiovascular disease",
+      "I": "Mediterranean diet",
+      "C": "Standard Western diet",
+      "O": "Cardiovascular health markers (e.g., cholesterol levels, blood pressure)",
+      "PubMedSearchStr": "(cardiovascular diseases[MeSH Terms] OR heart disease[Title/Abstract]) AND (Mediterranean diet[Title/Abstract]) AND (Western diet[Title/Abstract] OR standard American diet[Title/Abstract]) AND (cholesterol[MeSH Terms] OR blood pressure[MeSH Terms])"
+   },
+   {
+      "title": "Effect of Weighted Blankets on Sleep Quality in Children with Autism",
+      "fullPICO": "In children with autism spectrum disorder, does the use of weighted blankets, compared to regular blankets, improve sleep quality?",
+      "P": "Children with autism spectrum disorder",
+      "I": "Weighted blankets",
+      "C": "Regular blankets",
+      "O": "Sleep quality",
+      "PubMedSearchStr": "(autistic disorder[MeSH Terms] OR autism spectrum disorder[Title/Abstract]) AND (weighted blankets[Title/Abstract]) AND (sleep[MeSH Terms] OR sleep quality[Title/Abstract]) AND (control group[Title/Abstract] OR regular blankets[Title/Abstract])"
+    },
+   {
+      "title": "Impact of Early Childhood Music Education on Cognitive Development",
+      "fullPICO": "In young children, does early childhood music education, compared to no music education, enhance cognitive development?",
+      "P": "Young children",
+      "I": "Early childhood music education",
+      "C": "No music education",
+      "O": "Cognitive development",
+      "PubMedSearchStr": "(child development[MeSH Terms] OR early childhood[Title/Abstract]) AND (music education[Title/Abstract] OR music lessons[Title/Abstract]) AND (cognitive development[Title/Abstract] OR IQ[Title/Abstract]) AND (control group[Title/Abstract] OR no music education[Title/Abstract])"
+    }
+  ]

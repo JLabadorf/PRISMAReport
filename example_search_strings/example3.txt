@@ -1,0 +1,1 @@
+("diabetes mellitus, type 2"[MeSH Terms]) AND ("telemedicine"[MeSH Terms] OR "remote monitoring"[Title/Abstract] OR "virtual consultation"[Title/Abstract] OR " telehealth"[Title/Abstract]) AND ("glycemic control"[Title/Abstract] OR "HbA1c"[Title/Abstract]) AND ("usual care"[Title/Abstract] OR "standard care"[Title/Abstract] OR "in-person care"[Title/Abstract])

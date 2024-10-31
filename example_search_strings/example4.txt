@@ -1,0 +1,1 @@
+("health personnel"[MeSH Terms] OR "physicians"[MeSH Terms] OR "nurses"[MeSH Terms]) AND ("mindfulness"[MeSH Terms] OR "meditation"[MeSH Terms]) AND ("stress"[MeSH Terms] OR "perceived stress scale"[Title/Abstract] OR "cortisol"[MeSH Terms]) AND ("control group"[Title/Abstract] OR "no intervention"[Title/Abstract])

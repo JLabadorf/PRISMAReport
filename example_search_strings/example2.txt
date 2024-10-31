@@ -1,0 +1,1 @@
+("antibacterial agents"[MeSH Terms] OR "antibiotics"[Title/Abstract]) AND ("probiotics"[MeSH Terms] OR "Lactobacillus"[Title/Abstract] OR "Bifidobacterium"[Title/Abstract]) AND ("diarrhea"[MeSH Terms] OR "antibiotic-associated diarrhea"[Title/Abstract]) AND (placebo[Title/Abstract] OR "control group"[Title/Abstract])
