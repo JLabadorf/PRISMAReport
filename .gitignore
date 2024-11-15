@@ -5,3 +5,6 @@
 
 # Ignore the scratch folder
 scratch/
+
+# Ignore venv
+.prismareport/
