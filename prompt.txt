@@ -1,0 +1,31 @@
+This is a paper. Please list if it meets each of the PICO/PECO criteria, and then classify them as passing or failing. It must pass every point to be included. Allow for Interventions and/or Exposures. A study should be included if the PICO/PECO question can be answered by the data (e.g., a study of adults, which reports out the age group of 65+ would still be included). Allow for the studies which measure association as well a causation. For the assessment check to see if it qualifies each of the Population, Intervention/Exposure, Comparator, and Outcome categories as determined by the inclusion and exclusion criteria (must match all inclusion and no exclusion). Explain your rationale and whether it passes or fails.
+
+Inclusion and Exclusion Criteria
+Inclusion Criteria
+
+Population:
+    Age: 65 years or older
+    Diagnosis of depression or depressive symptons: Confirmed by a healthcare professional using a standardized diagnostic tool (e.g., DSM-5, ICD-10)
+
+Intervention/Exposure:
+    Regular aerobic exercise:
+        Frequency: At least 3 times per week
+        Intensity: Moderate to vigorous intensity
+        Duration: At least 30 minutes per session
+        Type: Structured exercise programs (e.g., walking, running, cycling)
+Comparator:
+    Usual care: Standard treatment for depression (e.g., medication, psychotherapy)
+    No exercise intervention: No specific exercise program
+Outcome:
+    Reduction in depression symptoms: Measured by a standardized depression scale (e.g., Beck Depression Inventory, Hamilton Depression Rating Scale) as a primary or secondary outcome.
+
+Study Design:
+    Randomized controlled trials (RCTs) or Observational Studies
+Exclusion Criteria
+    Severe medical conditions that preclude exercise (e.g., unstable heart disease, severe respiratory conditions)
+    Cognitive impairment that interferes with informed consent or participation in the study
+    Current use of psychotropic medications that could confound the effects of exercise
+    History of substance abuse or dependence
+    Pregnancy or breastfeeding
+    Participation in other ongoing exercise or treatment programs for depression
+    A systematic review or meta-analysis
