@@ -1,19 +1,12 @@
-### Inclusion Criteria###
+# Inclusion and Exclusion Criteria
+## Inclusion Criteria
 
-Here is the inclusion exclusion criteria. 
-
-Here is the inclusion criteria for a study.
-
-
-Inclusion and Exclusion Criteria
-Inclusion Criteria
-
-Population:
+### Population:
 
     Age: 65 years or older
     Diagnosis of depression or depressive symptons: Confirmed by a healthcare professional using a standardized diagnostic tool (e.g., DSM-5, ICD-10)
 
-Intervention/Exposure:
+### Intervention/Exposure:
 
     Regular aerobic exercise:
         Frequency: At least 3 times per week
@@ -21,19 +14,19 @@ Intervention/Exposure:
         Duration: At least 30 minutes per session
         Type: Structured exercise programs (e.g., walking, running, cycling)
 
-Comparator:
+### Comparator:
 
     Usual care: Standard treatment for depression (e.g., medication, psychotherapy)
     No exercise intervention: No specific exercise program
 
-Outcome:
+### Outcome:
 
     Reduction in depression symptoms: Measured by a standardized depression scale (e.g., Beck Depression Inventory, Hamilton Depression Rating Scale) as a primary or secondary outcome.
 
-Study Design:
+### Study Design:
 
     Randomized controlled trials (RCTs) or Observational Studies
-Exclusion Criteria
+## Exclusion Criteria
 
     Severe medical conditions that preclude exercise (e.g., unstable heart disease, severe respiratory conditions)
     Cognitive impairment that interferes with informed consent or participation in the study
