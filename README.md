@@ -78,4 +78,4 @@ For questions or inquiries, please contact:
 - *Peter Labadorf*: Backend Design, Data Engineering
 
 ## Special Thanks To:
-Rutgers School of Health Professions, where James is a doctoral student, and his advice Dr. Barbara Tutfo who is guiding him them this research for his dissertation.
+Rutgers School of Health Professions, where James is a doctoral student, and his advicor Dr. Barbara Tutfo who is guiding him this research for his dissertation.
